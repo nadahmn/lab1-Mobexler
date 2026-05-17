@@ -19,7 +19,7 @@ apres ping 8.8.8.8
 <img width="511" height="383" alt="image" src="https://github.com/user-attachments/assets/95c7ab24-91e9-4f15-ac30-ab46e95d2373" />
 Étape 6 — Préparer la cible Android (choisir 1 option)
 Option A — Smartphone test via USB
-<img width="103" height="68" alt="image" src="https://github.com/user-attachments/assets/83287f35-fcff-476e-ba49-cb6085ffc146" />
+
 
 
 
