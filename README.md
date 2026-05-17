@@ -31,7 +31,10 @@
 <img width="511" height="383" alt="image" src="https://github.com/user-attachments/assets/95c7ab24-91e9-4f15-ac30-ab46e95d2373" />
 
 Étape 6 — Préparer la cible Android (choisir 1 option)
-Option A — Smartphone test via USB
+                                                       Option A — Smartphone test via USB
+
+<img width="103" height="68" alt="Capture d&#39;écran 2026-05-18 003736" src="https://github.com/user-attachments/assets/864a418f-91d4-463e-bda0-7f273a5e4843" />
+
 
 
 
