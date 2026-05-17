@@ -13,6 +13,7 @@
 <img width="511" height="388" alt="Capture d&#39;écran 2026-05-18 001826" src="https://github.com/user-attachments/assets/7f6f4098-06af-4874-a96d-3b7183df95bc" />
 
 Étape 4 — Vérifier le réseau (tests “santé”) : 
+
 <img width="503" height="369" alt="Capture d&#39;écran 2026-05-18 001931" src="https://github.com/user-attachments/assets/1039d7be-9a38-4c1f-93a3-15c28b2cc996" />
 
                                                                     ip : 
@@ -26,6 +27,7 @@
 <img width="504" height="374" alt="image" src="https://github.com/user-attachments/assets/73be0f8d-b993-447a-94bd-115ab06b8a17" />
 
 Étape 5 — Créer le snapshot “CLEAN” (baseline)
+
 <img width="511" height="383" alt="image" src="https://github.com/user-attachments/assets/95c7ab24-91e9-4f15-ac30-ab46e95d2373" />
 
 Étape 6 — Préparer la cible Android (choisir 1 option)
